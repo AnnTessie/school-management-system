@@ -35,4 +35,6 @@ I worked on the system structure, dashboard design, user experience, workflows a
 
 ## Screenshots
 
-Project interface screenshots are included to demonstrate the dashboard and key system modules.
+### Admin Dashboard
+
+![School Management System Dashboard](School%20Dashbord.JPG)
